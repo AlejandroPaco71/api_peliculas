@@ -1,0 +1,11 @@
+# --- ENTORNO VIRTUAL DE PYTHON ---
+# Bloquea carpetas comunes de entornos virtuales
+.venv/
+venv/
+env/
+ENV/
+
+# Bloquea carpetas creadas por herramientas específicas de empaquetado
+.env/
+.virtualenv/
+
